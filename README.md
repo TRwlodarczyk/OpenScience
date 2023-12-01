@@ -20,6 +20,9 @@
 - [https://trello.com/](https://trello.com/)
 - [https://www.youtube.com/watch?v=tRZGeaHPoaw&ab_channel=KevinStratvert](https://www.youtube.com/watch?v=tRZGeaHPoaw&ab_channel=KevinStratvert)
 - [https://jcoliver.github.io/learn-r//010-github.html](https://jcoliver.github.io/learn-r//010-github.html)
+- [https://jekyllcodex.org/](https://jekyllcodex.org/)
+- [https://themes.jekyllrc.org/](https://themes.jekyllrc.org/)
+- [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
 - [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
 - [https://github.com/](https://github.com/)
 - [https://cyverse.org/](https://cyverse.org/)
@@ -37,10 +40,6 @@
 - [https://www.rawgraphs.io/](https://www.rawgraphs.io/)
 - [https://openrefine.org/](https://openrefine.org/)
 - [https://vega.github.io/voyager/](https://vega.github.io/voyager/)
-- [https://themes.jekyllrc.org/](https://themes.jekyllrc.org/)
-- [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
-
-
 
 
 
