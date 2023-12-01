@@ -4,7 +4,7 @@
 
 ## **PRESENTATION LINKS**
 
-- https://foss.cyverse.org/00_basics/
+- [https://foss.cyverse.org/00_basics/]
 - https://www.cos.io/initiatives/prereg
 - https://github.com/sindresorhus/awesome
 - https://tyson-swetnam.github.io/awesome-open-science/
