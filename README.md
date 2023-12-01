@@ -1,6 +1,6 @@
-# **Open Science Tools**
+# **Roots for Resilience in the Year of Open Science: Lessons and Transformations**
 
-## [Linkedin](https://www.linkedin.com/in/zeshan67/) | [Mail](mailto:asifzeshan67@gmail.com)
+## [My Linkedin](https://www.linkedin.com/in/wlodarczyk-tomasz/) | [My Email](mailto:twlodarczyk@arizona.edu)
 
 ## **PRESENTATION LINKS**
 
