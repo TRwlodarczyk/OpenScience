@@ -37,6 +37,8 @@
 - [https://www.rawgraphs.io/](https://www.rawgraphs.io/)
 - [https://openrefine.org/](https://openrefine.org/)
 - [https://vega.github.io/voyager/](https://vega.github.io/voyager/)
+- [https://themes.jekyllrc.org/](https://themes.jekyllrc.org/)
+- [https://squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/)
 
 
 
