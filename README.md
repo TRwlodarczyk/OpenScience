@@ -4,6 +4,7 @@
 
 ## **PRESENTATION LINKS**
 
+- [https://nasa.github.io/Transform-to-Open-Science/year-of-open-science/](https://nasa.github.io/Transform-to-Open-Science/year-of-open-science/)
 - [https://foss.cyverse.org/00_basics/](https://foss.cyverse.org/00_basics/)
 - [https://www.cos.io/initiatives/prereg](https://www.cos.io/initiatives/prereg)
 - [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
