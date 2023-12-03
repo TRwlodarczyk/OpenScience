@@ -1,4 +1,4 @@
-# **Roots for Resilience in the Year of Open Science: Lessons and Transformations**
+# **Roots for Resilience in the Year of Open Science: Lessons Learned**
 
 ## [My Linkedin](https://www.linkedin.com/in/wlodarczyk-tomasz/) | [My Email](mailto:twlodarczyk@arizona.edu)
 
