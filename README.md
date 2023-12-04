@@ -4,6 +4,7 @@
 
 ## **PRESENTATION LINKS**
 
+- [https://datascience.arizona.edu/r4r](https://datascience.arizona.edu/r4r)
 - [https://nasa.github.io/Transform-to-Open-Science/year-of-open-science/](https://nasa.github.io/Transform-to-Open-Science/year-of-open-science/)
 - [https://foss.cyverse.org/00_basics/](https://foss.cyverse.org/00_basics/)
 - [https://www.cos.io/initiatives/prereg](https://www.cos.io/initiatives/prereg)
